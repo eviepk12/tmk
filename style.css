@@ -7,8 +7,9 @@
 
 .main-parent {
     margin: 5vh;
-    display: grid;
-    place-items: center; 
+    /* display: grid;
+    place-items: center;  */
+    text-align: center;
 }
 
 .content {
@@ -21,6 +22,10 @@ hr {
 
     height: 1px;
     background-color: black;
+}
+
+.tof {
+    color: red;
 }
 
 a,
