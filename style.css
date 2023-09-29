@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+
+    --red: ;
+}
+
+.main-parent {
+    margin: 5vh;
+    display: grid;
+    place-items: center; 
+}
+
+.content {
+    margin: 5vh;
+}
+
+hr {
+    margin-left: 20vw;
+    margin-right: 20vw;
+
+    height: 1px;
+    background-color: black;
+}
+
+a,
+a:visited,
+a:hover {
+    color: inherit;
+    text-align: center;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+p {
+    text-align: justify;
+}
