@@ -6,14 +6,14 @@
 }
 
 .main-parent {
-    margin: 5vh;
+    margin: 5vw;
     /* display: grid;
     place-items: center;  */
     text-align: center;
 }
 
 .content, ol {
-    margin: 5vh;
+    margin: 5vw;
 }
 
 hr {
@@ -43,7 +43,7 @@ p {
     text-align: justify;
 }
 
-@media (max-width: 1280px) {
+@media (min-width: 1280px) {
     .content, ol {
         margin-left: 20vw;
         margin-right: 20vw;
