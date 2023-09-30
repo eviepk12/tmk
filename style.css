@@ -12,7 +12,8 @@
     text-align: center;
 }
 
-.content, ol {
+.content,
+ol {
     margin: 5vw;
 }
 
@@ -43,8 +44,14 @@ p {
     text-align: justify;
 }
 
+.appendix {
+    display: grid;
+    place-items: center;
+}
+
 @media (min-width: 1280px) {
-    .content, ol {
+
+    .content{
         margin-left: 20vw;
         margin-right: 20vw;
     }
