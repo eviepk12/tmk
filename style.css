@@ -15,6 +15,7 @@
 .content,
 ol {
     margin: 5vw;
+    text-align: justify;
 }
 
 hr {
