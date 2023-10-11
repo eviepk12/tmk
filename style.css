@@ -49,6 +49,11 @@ p {
     place-items: center;
 }
 
+.title {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
 @media (min-width: 1280px) {
 
     .content{
